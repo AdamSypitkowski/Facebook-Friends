@@ -1,2 +1,3 @@
 # Facebook-Friends
-Project 6 for CSE 231 at Michigan State University Spring Semester 2024 
+Intake a file with names of individuals, Intake file with 2 different types of friends for each person. Make a friends dictionary for each individual with 2 keys for the different friend groups. Preform different calculations with the nested dictionary: Determining the maximum friends across platforms. Calculating the percent of individuals that do not share a friend between platforms. Printing an individuals friends on each platform. Calculating the percent of individuals that have more X friends compared to facebook. Determining friend triangles, a combination in which 3 people all are friends with each other. Complete friend triangles for X friendships. Complete friend triangles for facebook friendships. Complete friend triangles for both X and facebook friendships combined. Continually prompt for more options, printing thank you at the end.
+
